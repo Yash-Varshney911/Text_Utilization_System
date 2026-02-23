@@ -40,12 +40,13 @@ http://127.0.0.1:8000/
 ```
 
 ## Project Structure
+```
 Text_Utilization_System/
 │── textutils/        # Django app containing views, models, templates
 │── static/           # CSS, JS, Bootstrap files
 │── templates/        # HTML templates
 │── manage.py         # Django project manager
-│── requirements.txt  # Python dependencies
+```
 
 ## Contributing
 Contributions are welcome! Fork the repository, create a new branch (feature-xyz), commit your changes, and submit a pull request.
